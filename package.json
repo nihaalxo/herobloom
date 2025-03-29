@@ -1,0 +1,12 @@
+{
+  "name": "selectivebloomtest",
+  "version": "1.0.0",
+  "dependencies": {
+    "@loaders.gl/draco": "^4.3.3",
+    "lil-gui": "^0.20.0",
+    "postprocessing": "^6.37.1",
+    "three": "^0.174.0",
+    "three-copyshader": "^0.0.1",
+    "three-effectcomposer": "^0.0.1"
+  }
+}
